@@ -20,11 +20,3 @@ class Person
 end
 
 
-
-
-
-
-
-
-
-end
